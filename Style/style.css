@@ -61,8 +61,6 @@ img{
     transform: rotate(-21deg);
     text-align: center;
 
-
-
 }
 
 /* works container */
@@ -95,21 +93,3 @@ img{
     text-align: center;
 }
     
-
-
-/* .photos{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gr
-    display: flex;
-    flex-direction: row;
-
-    height: 40vh;
-}
-.photos img{
-    width: 30%;
-    justify-content: space-between;
-}
-.skills{
-    display: flex;
-} */
